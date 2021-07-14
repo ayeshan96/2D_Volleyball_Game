@@ -3,15 +3,15 @@
 * Introduction
 	
 	* Volley Champsz is a simple volley ball game encrypted with C++ language. In this game, there are two groups and there are six players for each side. The defense team is played automatically and the user has to play the other side.
-
+</br>
 
 * Procedure of the game
 
 	* At the beginning of the game, the menu which contains the continue to the game, help and exit details are displaying and the user has to choose an option.
 
-	1. Play a new game
-	2. Help
-	3. Quit
+		* Play a new game - 1
+		* Help		  - 2
+		* Quit		  - 3
 
 	* After giving an idea about the program, the program checks for the toss and the user may win or lose it. The team who win the toss will get the chance to serve the ball at first.
 
@@ -32,7 +32,7 @@
 	
 	* The team which get 25 marks at first will be the winning team. If the user wants to quit the game, user have to press Q or q key.
 
-
+</br>
 * Techniques used in the game simultation
 
 	* In this program we have used 11 functions to do specific tasks (Ex: we have used ‘draw’ function to set the ground and ‘marks’ function to calculate the points). Also we have used global variables (Ex: length and width)
