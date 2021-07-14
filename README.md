@@ -26,9 +26,9 @@
 
 	* Here the rules of the game are,
 
-	1. One team can get points, if one of the players in the opposing team goes outside from the ground.
-	2. If the ball goes to the outside of the ground, opposing team can get points.
-	3. If one team player goes to the side of the opposing team, then the opposing team can score one point.
+		1. One team can get points, if one of the players in the opposing team goes outside from the ground.
+		2. If the ball goes to the outside of the ground, opposing team can get points.
+		3. If one team player goes to the side of the opposing team, then the opposing team can score one point.
 	
 	* The team which get 25 marks at first will be the winning team. If the user wants to quit the game, user have to press Q or q key.
 
