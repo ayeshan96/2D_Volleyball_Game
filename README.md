@@ -33,6 +33,7 @@
 	* The team which get 25 marks at first will be the winning team. If the user wants to quit the game, user have to press Q or q key.
 
 </br>
+
 * Techniques used in the game simultation
 
 	* In this program we have used 11 functions to do specific tasks (Ex: we have used ‘draw’ function to set the ground and ‘marks’ function to calculate the points). Also we have used global variables (Ex: length and width)
