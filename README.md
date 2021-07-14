@@ -10,8 +10,8 @@
 	* At the beginning of the game, the menu which contains the continue to the game, help and exit details are displaying and the user has to choose an option.
 
 		* Play a new game - 1
-		* Help&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - 2
-		* Quit&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - 3
+		* Help&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - 2
+		* Quit&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - 3
 
 	* After giving an idea about the program, the program checks for the toss and the user may win or lose it. The team who win the toss will get the chance to serve the ball at first.
 
