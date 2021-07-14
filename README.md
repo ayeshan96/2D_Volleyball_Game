@@ -9,10 +9,15 @@
 
 	* At the beginning of the game, the menu which contains the continue to the game, help and exit details are displaying and the user has to choose an option.
 
-	1. Play a new game
-	2. Help
-	3. Quit
+		1. Play a new game
+		2. Help
+		3. Quit
 
 	* After giving an idea about the program, the program checks for the toss and the user may win or lose it. The team who win the toss will get the chance to serve the ball at first.
 
 	* User can choose a player by pressing 1, 2, 3, 4, 5 or 6 key. To give the direction of the player, user has to give A, S, D and W keys.
+
+		* A or a - Left
+		* S or s - Down
+		* D or d - Right
+		* W or w - Up
